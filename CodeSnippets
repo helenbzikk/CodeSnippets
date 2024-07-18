@@ -1,0 +1,17 @@
+CodeSnippets/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── snippets/
+│   ├── __init__.py
+│   └── example_snippet.py
+├── tests/
+│   ├── __init__.py
+│   └── test_example_snippet.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
